@@ -1,0 +1,14 @@
+# Streamlit demo
+streamlit>=1.36
+requests>=2.31
+
+# Notebook: data + ROUGE eval
+pandas>=2.2
+nltk>=3.8
+rouge-score>=0.1.2
+
+# Extractive summarization
+sumy>=0.11
+
+# Abstractive summarization (via HF Inference API)
+huggingface-hub>=0.24

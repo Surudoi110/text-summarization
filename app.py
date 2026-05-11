@@ -29,6 +29,7 @@ st.markdown(
     <style>
     .summary-box {
         background: #f0f4ff;
+        color: #1a1a2e;
         border-left: 4px solid #4a6cf7;
         border-radius: 8px;
         padding: 1rem 1.2rem;
